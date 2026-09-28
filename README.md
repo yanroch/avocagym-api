@@ -13,7 +13,7 @@ Projeto desenvolvido como MVP de componentização/microsserviços (Cenário 1: 
 ## Instalação local
 
 ```bash
-git clone <url-deste-repositorio>
+git clone https://github.com/yanroch/avocagym-api.git
 cd avocagym-api
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
